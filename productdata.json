@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "name": "Sneakers",
+      "price": "$699",
+      "brand": "Nike",
+      "inventoryStatus": true,
+      "id": 3
+    },
+    {
+      "name": "Panties",
+      "price": "$69",
+      "brand": "VIctoria's Secret",
+      "inventoryStatus": true,
+      "id": 4
+    },
+    {
+      "name": "Umbrella",
+      "price": "$32",
+      "brand": "Sun",
+      "inventoryStatus": true,
+      "id": 5
+    },
+    {
+      "name": "Boots",
+      "price": "$87",
+      "brand": "Quechua",
+      "inventoryStatus": true,
+      "id": 6
+    },
+    {
+      "name": "Shirt",
+      "price": "$22",
+      "brand": "Umbro",
+      "inventoryStatus": false,
+      "id": 7
+    },
+    {
+      "name": "Teri Maa",
+      "price": "$200",
+      "brand": "Randi",
+      "inventoryStatus": true,
+      "id": 8
+    }
+  ]
+}
